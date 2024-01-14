@@ -26,4 +26,4 @@ The Phone Recommendation System is designed to help users find the most suitable
 
 ```bash
 git clone https://github.com/neerajsde/Mobile-Phone-Price-Predection.git
-cd phone-recommendation-system
+cd Mobile-Phone-Price-Predection
